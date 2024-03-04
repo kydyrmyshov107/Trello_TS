@@ -1,0 +1,24 @@
+{
+  "about": {
+    "title": "Вход в Trello",
+    "buttonOne": "Продолжить",
+    "buttonTwo": "Зарегистрировать аккаунт",
+    "inputOne": "имя",
+    "inputTwo": "пароль",
+    "selectOne": "Английский",
+    "selectTwo": "Русский"
+  },
+  "Two": {
+    "called": "Регистрация аккаунта",
+    "grayText": "Нажимая расположенную ниже кнопку",
+    "aText": "Если у вас нету аккаунта gmail тогда создайте вот ссылка",
+    "inputName": "Укажите имя",
+    "inputPassword": "Укажите пароль",
+    "inputImage": "картина",
+    "buttonOpen": "войти",
+    "spanText": "или",
+    "aTextTwo": "Уже есть аккаунт? Войти",
+    "selectEn": "Английский",
+    "selectRu": "Русский"
+  }
+}

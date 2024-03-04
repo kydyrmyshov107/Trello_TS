@@ -1,0 +1,24 @@
+{
+  "about": {
+    "title": "Log in to Trello",
+    "buttonOne": "Continue",
+    "buttonTwo": "Register an account",
+    "inputOne": "name",
+    "inputTwo": "password",
+    "selectOne": "English",
+    "selectTwo": "Russian"
+  },
+  "Two": {
+    "called": "Account registration",
+    "grayText": "By clicking on the button below,",
+    "aText": "If you don't already have a Gmail account,clicking on the link",
+    "inputName": "Enter a name",
+    "inputPassword": "Enter a password",
+    "inputImage": "picture",
+    "buttonOpen": "Login",
+    "spanText": "or",
+    "aTextTwo": "Do you already have an account? Please enter.",
+    "selectEn":"English",
+    "selectRu":"Russian"
+  }
+}
